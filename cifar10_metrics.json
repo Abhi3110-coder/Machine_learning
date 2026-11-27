@@ -1,0 +1,20 @@
+{
+  "dataset": "CIFAR-10",
+  "classes": [
+    "airplane",
+    "automobile",
+    "bird",
+    "cat",
+    "deer",
+    "dog",
+    "frog",
+    "horse",
+    "ship",
+    "truck"
+  ],
+  "train_samples": 50000,
+  "test_samples": 10000,
+  "test_accuracy": 0.8744,
+  "trained_at": "2026-11-27T20:53:59",
+  "model_path": "data\\models\\cifar10_classifier.pkl"
+}
